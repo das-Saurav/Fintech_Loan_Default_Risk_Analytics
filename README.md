@@ -61,18 +61,20 @@ Visualized using Matplotlib + Seaborn.
 
 # 📊 Power BI Dashboard
 
-Interactive dashboard includes:
-- Portfolio overview
-- Default rate & high-risk segments
-- Recovery performance
-- Collections effectiveness
-- State/city-level borrower insights
-- Credit score & risk distribution
+An interactive, executive-ready dashboard designed to monitor loan portfolio health, risk exposure, and recovery efficiency.
+Dashboard modules include:
+- Portfolio Overview: Total loans, loan amount, default rate, and recovery rate at a glance
+- Risk & Default Analysis: High-risk borrower segments, default concentration, and delinquency (PAR30/60/90)
+- Recovery Performance: Recovery amount vs loan exposure and effectiveness by risk category
+- Collections Effectiveness: Impact of collection attempts on recovery outcomes
+- Geographic Insights: State- and city-level borrower distribution and delinquency hotspots
+- Credit & Risk Distribution: Credit score bands, risk categories, and affordability segmentation
+Outcome:
+Enables faster identification of high-risk portfolios, inefficient recovery zones, and data-backed decisions for credit risk and collections optimization.
 
 # 🧠 Key Insights
 
 - High EMI-to-Income Ratio strongly correlates with defaults
 - Credit score < 600 group shows 3× higher overdue rates
 - Previous defaults are the strongest predictor of delinquency
-Some cities/states exhibit disproportionately higher risk
 High-risk borrowers tend to have higher collection attempts but lower recovery
