@@ -69,6 +69,7 @@ Dashboard modules include:
 - Collections Effectiveness: Impact of collection attempts on recovery outcomes
 - Geographic Insights: State- and city-level borrower distribution and delinquency hotspots
 - Credit & Risk Distribution: Credit score bands, risk categories, and affordability segmentation
+
 Outcome:
 Enables faster identification of high-risk portfolios, inefficient recovery zones, and data-backed decisions for credit risk and collections optimization.
 
